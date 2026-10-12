@@ -1,0 +1,9 @@
+panel,method,embryo,side,frame,minutes_after_bleach,failure
+a,CellProfiler,E02_2022-10-11,Ventral,2,0.0,Bleached nucleus not detected right after bleaching
+b,CellProfiler,E11_2022-11-02,Ventral,2,0.0,Bleached nucleus only partly segmented
+c,Cellpose 3,E11_2022-11-02,Ventral,25,11.5,Dim bleached nucleus not detected later in the recovery
+d,CellProfiler,E02_2022-10-11,Ventral,39,18.5,Dim nucleus not detected
+e,Cellpose 3,E22_2023-01-06,Ventral,29,13.5,Nucleus split into two objects
+f,CellProfiler,E13_2022-11-02,Dorsal,49,23.5,"Ragged, far too small outline of the bleached nucleus"
+g,StarDist,E16_2022-11-24,Dorsal,10,4.0,Outlines far larger than the nuclei
+h,StarDist,E19_2022-12-02,Dorsal,4,1.0,Extra objects in the cytoplasm between nuclei

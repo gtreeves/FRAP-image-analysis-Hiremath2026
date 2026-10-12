@@ -1,0 +1,11 @@
+file,use_for_comparison,case,filenum,bleached_label,cellprofiler_input
+2022-10-11/Embryo1_dorsal_5x_1.8sec.czi,Yes,Good,1,19,mRFP
+2022-10-11/Embryo2_dorsal_4.5x_2sec.czi,Yes,Good,3,20,mRFP
+2022-10-11/Embryo2_dorsal_5x_2sec.czi,Yes,Good,4,13,mRFP
+2022-10-12/embryo1_dorsal_3.37sec bleached.czi,Yes,Bad,5,15,inverted Dorsal
+2022-10-12/embryo1_spot 2 dorsal_3.47sec bleached.czi,Yes,Bad,6,16,inverted Dorsal
+2022-10-19/embryo1_spot2_dorsal.czi,Yes,Good,9,14,inverted Dorsal
+2022-10-25/embryo1_spot1_5x_i thimk its lateral side..czi,Yes,Good,10,13,mRFP
+2022-11-02/embryo1_spot2.czi,Yes,Bad,12,14,mRFP
+2022-11-21/embryo1_spot 2.czi,Yes,Bad,15,18,mRFP
+2022-11-29/embryo1_spot1.czi,Yes,Bad,18,19,mRFP

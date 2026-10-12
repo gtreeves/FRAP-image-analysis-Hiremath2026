@@ -1,0 +1,22 @@
+# data and outputs are not tracked
+*.czi
+*.lsm
+*.tif
+*.tiff
+*.mat
+*.h5
+*.npz
+*.npy
+*.fig
+czi mat results/
+Image results/
+output/
+results/
+# system files
+Thumbs.db
+.DS_Store
+*.asv
+__pycache__/
+
+figure_scripts/figures/
+!figure_scripts/figure_data/S2_frames/*.npz

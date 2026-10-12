@@ -1,0 +1,7 @@
+method,tracking,post-bleach frames,bleached nucleus followed (frames),frames missing,frames on the wrong nucleus,track breaks (gap runs),embryos followed without any miss or wrong frame,"bleached area CV, median",bleached area jumps > 20% (steps)
+"FRAP pipeline (L_nuc, as used)",own label,523,523,0,0.0,0.0,10/10,0.065,7
+FRAP pipeline (L_track),own label,523,523,0,0.0,0.0,10/10,0.061,7
+CellProfiler,simple overlap linking,523,389,134,31.0,13.0,4/10,0.124,21
+Cellpose 3,simple overlap linking,523,465,58,0.0,4.0,6/10,0.061,8
+StarDist,simple overlap linking,523,501,22,15.0,6.0,4/10,0.087,24
+Ground truth,overlap linking of the labels,523,523,0,,,,0.069,9

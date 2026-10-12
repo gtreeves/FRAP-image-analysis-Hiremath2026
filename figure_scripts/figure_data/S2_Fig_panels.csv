@@ -1,0 +1,10 @@
+panel,method,embryo,frame,channel_shown,failure
+a,CellProfiler,E01,2,Histone-RFP,Bleached nucleus not detected right after bleaching
+b,StarDist,E01,2,Histone-RFP,Bleached nucleus broken into fragments right after bleaching
+c,CellProfiler,E10,5,Histone-RFP,Bleached nucleus only partly segmented
+d,Cellpose 3,E03,51,Histone-RFP,Dim nucleus not detected
+e,Cellpose 3,E12,45,Histone-RFP,Nucleus split into two objects
+f,Cellpose 3,E01,53,Histone-RFP,"Ragged, undersized outline of a small nucleus"
+g,StarDist,E01,16,Histone-RFP,Outlines far larger than the nuclei
+h,StarDist,E09,17,Dl-GFP,Extra objects in the cytoplasm between nuclei
+i,CellProfiler,E04,58,Histone-RFP,"Ragged, undersized outline of a dim nucleus"

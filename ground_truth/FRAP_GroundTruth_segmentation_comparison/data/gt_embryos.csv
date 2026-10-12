@@ -1,0 +1,11 @@
+file,gt_folder,use_for_comparison,case,side,filenum,bleached_label,reconstruct,segmented_channel
+2022-10-11/Embryo2_dorsal_4.5x_2sec-1.czi,2022-10-11/Embryo2_dorsal_4.5x_2sec-1.czi,Yes,Good,Ventral,2,16,yes,mRFP
+2022-11-02/embryo1_spot1.czi,2022-11-02/embryo1_spot1.czi,Yes,Good,Ventral,11,12,no,mRFP
+2022-11-02/embryo2_spot1.czi,2022-11-02/embryo2_spot1.czi,Yes,Good,Dorsal,13,10,no,mRFP
+2022-11-21/embryo1_spot 1.czi,2022-11-21/embryo1_spot 1.czi,Yes,Good,Ventral,14,17,yes,mRFP
+2022-11-24/embryo1_spot1.czi,2022-11-24/embryo1_spot1.czi,Yes,Good,Dorsal,16,13,no,inverted Dorsal
+2022-11-24/embryo1_spot2.czi,2022-11-24/embryo1_spot2.czi,Yes,Good,Dorsal,17,15,no,inverted Dorsal
+2022-12-02/embryo1.czi,2022-12-02/embryo1.czi,Yes,Bad,Dorsal,19,17,no,inverted Dorsal
+2022-12-31/Embryo1_spot1.czi,2022-12-31/Embryo1_spot1.czi,Yes,Bad,Ventral,20,16,yes,mRFP
+2023-01-03/embryo5_spot1.czi,2023-01-03/embryo5_spot1.czi,Yes,Bad,Dorsal,21,14,no,inverted Dorsal
+2023-01-06/embryo1_spot1.czi,2023-01-06/embryo1_spot1.czi,Yes,Bad,Ventral,22,19,no,mRFP
